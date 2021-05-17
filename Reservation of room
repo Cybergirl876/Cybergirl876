@@ -1,0 +1,23 @@
+#include<iostream>
+
+using namespace std;
+
+//Define a class called Room with numOfGuests as member
+
+class Room{
+    public:
+        int numOfGuests;
+        int status;
+};
+int main(){
+    int n;
+    cout<<"Enter Number of Guests : ";
+    cin>>n;
+    Room r;
+    r.numOfGuests=n;
+    cout<<"Guests in the room : "<<r.numOfGuests<< endl;
+    //displays room status by pulling from number guests previously entered
+    r.status=n;
+    cout <<"Room status:""There are "<<r.status<<" occupants currently reserved for this room"<< endl;
+
+}
