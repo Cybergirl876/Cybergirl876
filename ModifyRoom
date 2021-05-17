@@ -1,0 +1,43 @@
+int num, guests;
+double cost;
+bool found = false;                                             //Flag
+
+  cout << "\n\n\t\t\tMODIFY ROOM\t\t\t\n\n";
+  cout << "Enter room number to modify room: ";
+  cin >> num;
+    for (unsigned int i = 0; i < suite.size(); i++) {
+        if (num == suite[i].GetNumber()){                           //Displays room info
+            cout << "\nRoom #" << suite[i].GetNumber()
+                 << "\nCapacity: " << suite[i].GetCapacity()
+                 << "\nDaily Rate: $" << suite[i].GetRate()
+                 << "\nRoom Status: " << suite[i].GetStatus()
+                 << endl;
+                 found = true;
+                                                      //Lowers Flag
+        }
+        if (found) {
+            cout << "\nEnter the number of guests in this room: ";
+            cin >> guests;
+            cout << "Enter the adjusted daily rate: $";
+            cin >> cost;
+
+            suite[i].ChangeStatus(guests);
+            suite[i].ChangeRate(cost);
+
+                                                    //Displays new room info
+            cout << "\nRoom #" << suite[i].GetNumber()
+                 << "\nCapacity: " << suite[i].GetCapacity()
+                 << "\nDaily Rate: $" << suite[i].GetRate()
+                 << "\nRoom Status: " << suite[i].GetStatus()
+                 << endl;
+            break;
+
+    }
+
+    }
+
+    if (found == false) {                                           //If flag is still raised, handle error
+        cout << "Room Number does not exists" << endl;
+    }
+
+}
