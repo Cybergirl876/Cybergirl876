@@ -1,6 +1,6 @@
 # Hi, I'm Danielle 👋🛡️
 
-I'm a cybersecurity professional focused on **blue team operations**, **digital forensics & incident response (DFIR)**, and **penetration testing**. I'm passionate about understanding how attacks happen — and building the skills to detect, investigate, and prevent them.
+I'm a cybersecurity professional focused on **blue team operations**, **digital forensics & incident response (DFIR)**, and **penetration testing**. I'm passionate about understanding how attacks happen and building the skills to detect, investigate, and prevent them.
 
 I'm currently working toward new opportunities in cybersecurity and will be available from **October 2026**.
 
