@@ -12,7 +12,7 @@ I'm currently working toward new opportunities in cybersecurity and will be avai
 |--------------|--------|--------|
 | CompTIA Security+ (Sec+) | CompTIA | ✅ Earned |
 | CompTIA CySA+ | CompTIA | ✅ Earned |
-| CompTIA Pentest+ | CompTIA | 🔄 In Progress |
+| CompTIA Pentest+ | CompTIA | ✅ Earned |
 | eJPT (eLearnSecurity Junior Penetration Tester) | INE Security | 🔄 In Progress |
 
 ---
