@@ -13,7 +13,7 @@ I'm currently working toward new opportunities in cybersecurity and will be avai
 | CompTIA Security+ (Sec+) | CompTIA | ✅ Earned |
 | CompTIA CySA+ | CompTIA | ✅ Earned |
 | CompTIA Pentest+ | CompTIA | ✅ Earned |
-| eJPT (eLearnSecurity Junior Penetration Tester) | INE Security | 🔄 In Progress |
+| TCM Security Practical Web Penetest Associate | INE Security | 🔄 In Progress |
 
 ---
 
@@ -21,7 +21,6 @@ I'm currently working toward new opportunities in cybersecurity and will be avai
 
 - 🔵 **Blue Team / SOC Operations** — threat monitoring, log analysis, incident response
 - 🔴 **Penetration Testing** — web app vulnerabilities, ethical hacking fundamentals
-- 🔍 **DFIR** — evidence acquisition, artifact analysis, memory forensics
 - 🛡️ **Security Awareness** — phishing simulation, user education, infographic design
 
 ---
