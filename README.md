@@ -9,7 +9,7 @@ Cybersecurity professional (SOC-adjacent, Active Directory & endpoint incident t
 ## 🔭 Currently
 - Building a structured offensive security portfolio: **"Attack, Detect, Document"** a 6-part lab series (Wazuh + Kali + Metasploit homelab) covering scenarios from Mimikatz credential dumping to brute-force detection
 - Conducting authorized passive recon for the **WiCyS Vulnerability Disclosure Program** on Bugcrowd (ATT&CK-mapped methodology)
-- Studying toward GIAC certs (GFACT, GSEC, GCIH)
+- Studying toward TCM Security Practical Web Pentest Associate (PWPA)
 - Writing it all up at [kkt2w.dev](https://kkt2w.dev) the "Signal Log"
 
 ## 🛠️ Skills & Tools
@@ -18,8 +18,8 @@ Cybersecurity professional (SOC-adjacent, Active Directory & endpoint incident t
 **Frameworks:** MITRE ATT&CK · Windows/Active Directory environments
 
 ## 📜 Certifications
-- CompTIA Security+
-- CompTIA CySA+
+- CompTIA Security+ ce
+- CompTIA CySA+ (CS0-003)
 - CompTIA PenTest+ (PT0-003)
 
 ## 📌 Featured
