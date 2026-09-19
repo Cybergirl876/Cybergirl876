@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi, I'm Missy 👋
 
-Cybersecurity professional (SOC-adjacent, Active Directory & endpoint incident triage) targeting SOC/IR analyst roles. Learning and building in public.
+Current IT Support professional (SOC-adjacent, Active Directory & endpoint incident triage) targeting Jr Pentest or Triage analyst roles. Learning and building in public.
 
 ## 🔭 Currently
 - Building a structured offensive security portfolio: **"Attack, Detect, Document"** a 6-part lab series (Wazuh + Kali + Metasploit homelab) covering scenarios from Mimikatz credential dumping to brute-force detection
