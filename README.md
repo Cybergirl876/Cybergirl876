@@ -4,16 +4,22 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi, I'm Missy 👋
 
-Current IT Support professional (SOC-adjacent, Active Directory & endpoint incident triage) targeting Jr Pentest or Triage analyst roles. Learning and building in public.
+Current IT Support professional targeting Jr Pentest or Security Analyst roles. Learning and building in public.
 
 ## 🔭 Currently
 - Building a structured offensive security portfolio: **"Attack, Detect, Document"** a 6-part lab series (Wazuh + Kali + Metasploit homelab) covering scenarios from Mimikatz credential dumping to brute-force detection
-- Conducting authorized passive recon for the **WiCyS Vulnerability Disclosure Program** on Bugcrowd (ATT&CK-mapped methodology)
+- Conducting authorized passive recon for the **WiCyS Vulnerability Disclosure Program** (ATT&CK-mapped methodology)
 - Studying toward TCM Security Practical Web Pentest Associate (PWPA)
+- Repurposing 2 Optiplex to build out my home network (adding new tools & technologies)
+- Improving my programming/scripting with Python and continuing to learn C++
 - Writing it all up at [kkt2w.dev](https://kkt2w.dev) the "Signal Log"
 
+## 🔍 Interests
+- Creating a new tool in line with my career goals.
+
+
 ## 🛠️ Skills & Tools
-**Tools:** Splunk · Burp Suite · Wazuh · Metasploit · Autopsy · FTK Imager · Git
+**Tools:** Splunk · Burp Suite · Wazuh · Metasploit · Autopsy · FTK Imager · Git · Kali Linux
 **Languages:** Python · PowerShell 
 **Frameworks:** MITRE ATT&CK · Windows/Active Directory environments
 
